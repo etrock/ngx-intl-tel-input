@@ -1,13 +1,13 @@
 {
 	"name": "ngx-intl-tel-input",
-	"version": "3.0.3",
+	"version": "4.0.3",
 	"peerDependencies": {
 		"@angular/common": "8.x - 10.x",
 		"@angular/core": "8.x - 10.x",
 		"@angular/forms": "8.x - 10.x",
 		"google-libphonenumber": "^3.2.3",
 		"intl-tel-input": "^17.0.3",
-		"ngx-bootstrap": "^6.0.0"
+		"@ng-bootstrap/ng-bootstrap": "^7.0.0"
 	},
 	"repository": {
 		"type": "git",
